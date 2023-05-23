@@ -18,4 +18,3 @@ class Student < User
 
 end
 
-#Student = Student.new("knowledge")
